@@ -1,0 +1,11 @@
+{
+  "name": "cf-vue",
+  "main": "main.js",
+  "compatibility_date": "2024-06-30",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "eb92ac60-6247-4241-92af-d0a70c3d5cb0"
+    }
+  ]
+}
